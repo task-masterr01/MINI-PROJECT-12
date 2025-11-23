@@ -197,7 +197,7 @@ footer .bottom-details .bottom_text{
 }
 @media (max-width:900px ){
     footer .content .link-boxes{
-        flex-wrap: ;
+        flex-wrap:wrap ;
     }
     footer .content .link-boxes .input_box{
         width: 40%;
